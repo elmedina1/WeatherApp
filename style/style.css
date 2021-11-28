@@ -8,6 +8,10 @@ body {
   );
 }
 
+a {
+  color: #5585b5;
+}
+
 .first-row {
   margin-top: 20px;
 }
@@ -206,6 +210,12 @@ body {
   color: #5585b5;
   font-weight: 700;
   text-align: center;
+}
+
+.footer {
+  text-align: center;
+  font-size: 12px;
+  color: white;
 }
 
 #curr_location {
